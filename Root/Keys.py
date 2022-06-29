@@ -1,0 +1,4 @@
+
+
+API_key = 'ed745929db73e651e04a7474c1d1aec3b4fa02fb7dbbf823bb0e67904bc8f669'
+API_secret = '3ae32ee17af45eb993dc993413ace08554fd7eacf2dd51f9cf07dee6ec30e7d0'
